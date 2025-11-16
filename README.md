@@ -193,3 +193,4 @@
 - **Image Classifier** : Train a deep learning model to classify images - cats/dogs, fruits, vehicles, etc.
 - **AI Voice Clone + TTS App** : Creates a custom voice clone and converts text into that voice with high quality.
 - **AI Agent for Browser Automation** : An agent that reads web pages, extracts info, fills forms, and completes tasks automatically.
+- **Scapper** : An scapper with UI.
